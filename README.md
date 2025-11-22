@@ -79,3 +79,9 @@ pip install -r requirements.txt
 
 cd backend
 python app.py
+
+**4.Author**
+
+GitHub: DG-ROHITHA
+Project Link: https://github.com/DG-ROHITHA/malicious-url-classifier
+Purpose: Learning portfolio project demonstrating ML application development skills
